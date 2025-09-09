@@ -1,30 +1,32 @@
-# Portfolio website creation
+# Portfolio Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rexjain27s-projects/v0-portfolio-website-creation)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/QcxAPE725HP)
+Welcome to the portfolio website repository.
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+This repository contains the source code and assets for a personal portfolio website. It showcases projects, skills, and contact information.
 
-## Deployment
+## Getting Started
 
-Your project is live at:
+To run the website locally:
 
-**[https://vercel.com/rexjain27s-projects/v0-portfolio-website-creation](https://vercel.com/rexjain27s-projects/v0-portfolio-website-creation)**
+```bash
+git clone <repository-url>
+cd <repository-folder>
+npm install
+npm start
+```
 
-## Build your app
+## Features
 
-Continue building your app on:
+- Responsive design
+- Project showcase
+- Contact form
 
-**[https://v0.app/chat/projects/QcxAPE725HP](https://v0.app/chat/projects/QcxAPE725HP)**
+## Contributing
 
-## How It Works
+Contributions are welcome! Please open issues or submit pull requests for improvements.
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## License
+
+This project is licensed under the MIT License.
