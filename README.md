@@ -1,30 +1,26 @@
-# Portfolio website creation
+# Rishabh Portfolio
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Welcome to the portfolio repository of Rishabh.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rexjain27s-projects/v0-portfolio-website-creation)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/QcxAPE725HP)
+## 🚀 About
 
-## Overview
+This project showcases my work, skills, and experience as a developer.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🛠️ Technologies Used
 
-## Deployment
+- HTML, CSS, JavaScript
+- React
+- Node.js
 
-Your project is live at:
+## 📁 Structure
 
-**[https://vercel.com/rexjain27s-projects/v0-portfolio-website-creation](https://vercel.com/rexjain27s-projects/v0-portfolio-website-creation)**
+- `/src` - Source code
+- `/public` - Static assets
 
-## Build your app
+## 📄 License
 
-Continue building your app on:
+This project is licensed under the MIT License.
 
-**[https://v0.app/chat/projects/QcxAPE725HP](https://v0.app/chat/projects/QcxAPE725HP)**
+---
 
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Feel free to explore and reach out for collaboration!
