@@ -21,6 +21,7 @@ export const metadata: Metadata = {
   title: "Rishabh Bothra - Full Stack Developer & UI/UX Designer",
   description:
     "Portfolio of Rishabh Bothra - A dedicated software developer, UI/UX designer, and tech enthusiast with expertise in full-stack development, robotics, AI, and entrepreneurship.",
+  generator: "v0.app",
 }
 
 export default function RootLayout({

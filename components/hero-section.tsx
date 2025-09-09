@@ -8,10 +8,7 @@ export default function HeroSection() {
         {/* Main Heading */}
         <div className="space-y-4">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-heading font-bold tracking-tight text-balance">
-            Hi, I'm{" "}
-            <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              Rishabh Bothra
-            </span>
+            Hi, I'm <span className="text-emerald-400">Rishabh Bothra</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground font-medium">Full-Stack Developer & UI/UX Designer</p>
         </div>
